@@ -1,0 +1,12 @@
+D:\Proyectos\Pruebas\Mareigua SAS\Persistencia\bin\Release\netcoreapp3.1\Persistencia.deps.json
+D:\Proyectos\Pruebas\Mareigua SAS\Persistencia\bin\Release\netcoreapp3.1\Persistencia.dll
+D:\Proyectos\Pruebas\Mareigua SAS\Persistencia\bin\Release\netcoreapp3.1\Persistencia.pdb
+D:\Proyectos\Pruebas\Mareigua SAS\Persistencia\bin\Release\netcoreapp3.1\Datos.dll
+D:\Proyectos\Pruebas\Mareigua SAS\Persistencia\bin\Release\netcoreapp3.1\Datos.pdb
+D:\Proyectos\Pruebas\Mareigua SAS\Persistencia\obj\Release\netcoreapp3.1\Persistencia.csproj.AssemblyReference.cache
+D:\Proyectos\Pruebas\Mareigua SAS\Persistencia\obj\Release\netcoreapp3.1\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\Pruebas\Mareigua SAS\Persistencia\obj\Release\netcoreapp3.1\Persistencia.AssemblyInfoInputs.cache
+D:\Proyectos\Pruebas\Mareigua SAS\Persistencia\obj\Release\netcoreapp3.1\Persistencia.AssemblyInfo.cs
+D:\Proyectos\Pruebas\Mareigua SAS\Persistencia\obj\Release\netcoreapp3.1\Persistencia.csproj.CoreCompileInputs.cache
+D:\Proyectos\Pruebas\Mareigua SAS\Persistencia\obj\Release\netcoreapp3.1\Persistencia.dll
+D:\Proyectos\Pruebas\Mareigua SAS\Persistencia\obj\Release\netcoreapp3.1\Persistencia.pdb

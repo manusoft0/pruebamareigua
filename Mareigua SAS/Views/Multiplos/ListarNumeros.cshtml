@@ -1,0 +1,81 @@
+﻿@model IEnumerable<Datos.Multiplo>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+
+    <div class="card-header py-3">
+        <div class="row">
+            <!-- Listar números -->
+            <div class="col-sm-3">
+                <div class="form-group">
+                    <a type="button" asp-controller="Multiplos" asp-action="ListarNumeros" class="btn btn-primary btn-user md-1" style="float:right;">Listar números</a>
+                </div>
+            </div>
+
+            <!-- número más grande por rango -->
+            <div class="col-sm-3">
+                <div class="form-group">
+                    <a type="button" asp-controller="Multiplos" asp-action="NumeroMasGrande" class="btn btn-primary btn-user md-1" style="float:right;">Número + grande</a>
+                </div>
+            </div>
+
+            <!-- número más grande por array -->
+            <div class="col-sm-3">
+                <div class="form-group">
+                    <a type="button" asp-controller="Multiplos" asp-action="NumeroMasGrandeArray" class="btn btn-primary btn-user md-1" style="float:right;">Número + grande * array</a>
+                </div>
+            </div>
+
+            <!-- Reversar Cadena -->
+            <div class="col-sm-3">
+                <div class="form-group">
+                    <a type="button" asp-controller="Multiplos" asp-action="ReversarCadena" class="btn btn-primary btn-user md-1" style="float:right;">Reversar Cadena</a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <table class="table table-responsive">
+        <thead>
+            <tr>
+                <th>
+                    Número
+                </th>
+                <th>
+                    Múltiplo de:
+                </th>
+                <th>
+                    Mensaje
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Numero)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.MultiploDe)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Mensaje)
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>
+</html>

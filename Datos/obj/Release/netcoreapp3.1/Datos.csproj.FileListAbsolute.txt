@@ -1,0 +1,10 @@
+D:\Proyectos\Pruebas\Mareigua SAS\Datos\bin\Release\netcoreapp3.1\Datos.deps.json
+D:\Proyectos\Pruebas\Mareigua SAS\Datos\bin\Release\netcoreapp3.1\Datos.dll
+D:\Proyectos\Pruebas\Mareigua SAS\Datos\bin\Release\netcoreapp3.1\Datos.pdb
+D:\Proyectos\Pruebas\Mareigua SAS\Datos\obj\Release\netcoreapp3.1\Datos.csproj.AssemblyReference.cache
+D:\Proyectos\Pruebas\Mareigua SAS\Datos\obj\Release\netcoreapp3.1\Datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\Pruebas\Mareigua SAS\Datos\obj\Release\netcoreapp3.1\Datos.AssemblyInfoInputs.cache
+D:\Proyectos\Pruebas\Mareigua SAS\Datos\obj\Release\netcoreapp3.1\Datos.AssemblyInfo.cs
+D:\Proyectos\Pruebas\Mareigua SAS\Datos\obj\Release\netcoreapp3.1\Datos.csproj.CoreCompileInputs.cache
+D:\Proyectos\Pruebas\Mareigua SAS\Datos\obj\Release\netcoreapp3.1\Datos.dll
+D:\Proyectos\Pruebas\Mareigua SAS\Datos\obj\Release\netcoreapp3.1\Datos.pdb

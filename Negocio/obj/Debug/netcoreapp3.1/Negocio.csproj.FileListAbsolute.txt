@@ -1,0 +1,10 @@
+D:\Proyectos\Pruebas\Mareigua SAS\Negocio\bin\Debug\netcoreapp3.1\Negocio.deps.json
+D:\Proyectos\Pruebas\Mareigua SAS\Negocio\bin\Debug\netcoreapp3.1\Negocio.dll
+D:\Proyectos\Pruebas\Mareigua SAS\Negocio\bin\Debug\netcoreapp3.1\Negocio.pdb
+D:\Proyectos\Pruebas\Mareigua SAS\Negocio\obj\Debug\netcoreapp3.1\Negocio.csproj.AssemblyReference.cache
+D:\Proyectos\Pruebas\Mareigua SAS\Negocio\obj\Debug\netcoreapp3.1\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\Pruebas\Mareigua SAS\Negocio\obj\Debug\netcoreapp3.1\Negocio.AssemblyInfoInputs.cache
+D:\Proyectos\Pruebas\Mareigua SAS\Negocio\obj\Debug\netcoreapp3.1\Negocio.AssemblyInfo.cs
+D:\Proyectos\Pruebas\Mareigua SAS\Negocio\obj\Debug\netcoreapp3.1\Negocio.csproj.CoreCompileInputs.cache
+D:\Proyectos\Pruebas\Mareigua SAS\Negocio\obj\Debug\netcoreapp3.1\Negocio.dll
+D:\Proyectos\Pruebas\Mareigua SAS\Negocio\obj\Debug\netcoreapp3.1\Negocio.pdb
